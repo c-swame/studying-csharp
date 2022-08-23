@@ -1,0 +1,15 @@
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/bin/Debug/net6.0/estudando-conversao
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/bin/Debug/net6.0/estudando-conversao.deps.json
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/bin/Debug/net6.0/estudando-conversao.runtimeconfig.json
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/bin/Debug/net6.0/estudando-conversao.dll
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/bin/Debug/net6.0/estudando-conversao.pdb
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.csproj.AssemblyReference.cache
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.GeneratedMSBuildEditorConfig.editorconfig
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.AssemblyInfoInputs.cache
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.AssemblyInfo.cs
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.csproj.CoreCompileInputs.cache
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.dll
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/refint/estudando-conversao.dll
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.pdb
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/estudando-conversao.genruntimeconfig.cache
+/home/caios/Documents/Aceleracao/dia-5-transformacao-entre-tipos/estudando-conversao/obj/Debug/net6.0/ref/estudando-conversao.dll
