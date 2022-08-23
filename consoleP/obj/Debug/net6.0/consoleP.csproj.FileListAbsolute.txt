@@ -1,0 +1,15 @@
+/home/caios/Documents/Aceleracao/dia-3/consoleP/bin/Debug/net6.0/consoleP
+/home/caios/Documents/Aceleracao/dia-3/consoleP/bin/Debug/net6.0/consoleP.deps.json
+/home/caios/Documents/Aceleracao/dia-3/consoleP/bin/Debug/net6.0/consoleP.runtimeconfig.json
+/home/caios/Documents/Aceleracao/dia-3/consoleP/bin/Debug/net6.0/consoleP.dll
+/home/caios/Documents/Aceleracao/dia-3/consoleP/bin/Debug/net6.0/consoleP.pdb
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.csproj.AssemblyReference.cache
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.GeneratedMSBuildEditorConfig.editorconfig
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.AssemblyInfoInputs.cache
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.AssemblyInfo.cs
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.csproj.CoreCompileInputs.cache
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.dll
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/refint/consoleP.dll
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.pdb
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/consoleP.genruntimeconfig.cache
+/home/caios/Documents/Aceleracao/dia-3/consoleP/obj/Debug/net6.0/ref/consoleP.dll

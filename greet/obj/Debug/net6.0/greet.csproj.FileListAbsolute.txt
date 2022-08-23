@@ -1,0 +1,15 @@
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/caios/Documents/Aceleracao/dia-3/greet/bin/Debug/net6.0/greet
+/home/caios/Documents/Aceleracao/dia-3/greet/bin/Debug/net6.0/greet.deps.json
+/home/caios/Documents/Aceleracao/dia-3/greet/bin/Debug/net6.0/greet.runtimeconfig.json
+/home/caios/Documents/Aceleracao/dia-3/greet/bin/Debug/net6.0/greet.dll
+/home/caios/Documents/Aceleracao/dia-3/greet/bin/Debug/net6.0/greet.pdb
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.dll
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/refint/greet.dll
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.pdb
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
+/home/caios/Documents/Aceleracao/dia-3/greet/obj/Debug/net6.0/ref/greet.dll
