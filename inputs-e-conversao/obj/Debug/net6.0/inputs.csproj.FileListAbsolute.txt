@@ -1,0 +1,15 @@
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/bin/Debug/net6.0/inputs
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/bin/Debug/net6.0/inputs.deps.json
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/bin/Debug/net6.0/inputs.runtimeconfig.json
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/bin/Debug/net6.0/inputs.dll
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/bin/Debug/net6.0/inputs.pdb
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.csproj.AssemblyReference.cache
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.GeneratedMSBuildEditorConfig.editorconfig
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.AssemblyInfoInputs.cache
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.AssemblyInfo.cs
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.csproj.CoreCompileInputs.cache
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.dll
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/refint/inputs.dll
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.pdb
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/inputs.genruntimeconfig.cache
+/home/caios/Documents/Aceleracao/dia-4/inputs-e-conversao/obj/Debug/net6.0/ref/inputs.dll
