@@ -1,6 +1,0 @@
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/obj/Debug/net6.0/HelloDotnetCLI.Test.Test.csproj.AssemblyReference.cache
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/obj/Debug/net6.0/HelloDotnetCLI.Test.Test.GeneratedMSBuildEditorConfig.editorconfig
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/obj/Debug/net6.0/HelloDotnetCLI.Test.Test.AssemblyInfoInputs.cache
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/obj/Debug/net6.0/HelloDotnetCLI.Test.Test.AssemblyInfo.cs
-/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI.Test.Test/obj/Debug/net6.0/HelloDotnetCLI.Test.Test.csproj.CoreCompileInputs.cache
