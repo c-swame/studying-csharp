@@ -1,0 +1,15 @@
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/bin/Debug/net6.0/HelloDotnetCLI
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/bin/Debug/net6.0/HelloDotnetCLI.deps.json
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/bin/Debug/net6.0/HelloDotnetCLI.runtimeconfig.json
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/bin/Debug/net6.0/HelloDotnetCLI.dll
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/bin/Debug/net6.0/HelloDotnetCLI.pdb
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.csproj.AssemblyReference.cache
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.AssemblyInfoInputs.cache
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.AssemblyInfo.cs
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.csproj.CoreCompileInputs.cache
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.dll
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/refint/HelloDotnetCLI.dll
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.pdb
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/HelloDotnetCLI.genruntimeconfig.cache
+/home/caios/Documents/Aceleracao/dia-2/desafio/acc-csharp-08-exercises-dotnet-cli/src/HelloDotnetCLI/obj/Debug/net6.0/ref/HelloDotnetCLI.dll
